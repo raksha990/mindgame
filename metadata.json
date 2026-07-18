@@ -1,0 +1,6 @@
+{
+  "name": "Mind Master",
+  "description": "A modern, premium mind games and brain-training application featuring multiple cognitive challenges, performance tracking, achievements, and adaptive difficulty scaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
